@@ -1,1 +1,1 @@
-./build/src/JSONParser 
+./build/src/JSONParser $1
